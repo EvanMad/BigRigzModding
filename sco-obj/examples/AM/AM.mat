@@ -1,0 +1,24 @@
+[MaterialBegin]
+Name= AM_vanguish
+Flags= texture_gouraud_
+Opacity= 255
+Texture= AM_Tattoo.bmp
+Color24= 126 126 126
+[MaterialEnd]
+
+[MaterialBegin]
+Name= AM_glass
+Flags= texture_gouraud_
+Opacity= 255
+Texture= AM_Tattoo.bmp
+Color24= 15 15 15
+[MaterialEnd]
+
+[MaterialBegin]
+Name= AM_fari
+Flags= texture_gouraud_alphaop_
+Opacity= 118
+Texture= AM_Tattoo.bmp
+Color24= 126 126 126
+[MaterialEnd]
+

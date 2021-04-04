@@ -1,0 +1,49 @@
+[MaterialBegin]
+Name= Body
+Flags= texture_gouraud_
+Opacity= 255
+Texture= Ducati1.bmp
+AlphaMask= Ducati1_o.bmp
+Color24= 255 255 255
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Chassis
+Flags= texture_gouraud_
+Opacity= 255
+Texture= Ducati2.bmp
+AlphaMask= Ducati2_o.bmp
+Color24= 255 255 255
+[MaterialEnd]
+
+[MaterialBegin]
+Name= 2_-_Default1
+Flags= texture_constant_0.200000
+Opacity= 255
+Texture= motots_skin1.bmp
+Color24= 50 50 50
+[MaterialEnd]
+
+[MaterialBegin]
+Name= 2_-_Default
+Flags= texture_constant_0.200000
+Opacity= 255
+Texture= head1.bmp
+Color24= 50 50 50
+[MaterialEnd]
+
+[MaterialBegin]
+Name= shlem
+Flags= texture_constant_0.200000
+Opacity= 255
+Texture= shlem.bmp
+Color24= 50 50 50
+[MaterialEnd]
+
+[MaterialBegin]
+Name= 4_-_Default
+Flags= solid_gouraud_alphaop_
+Opacity= 169
+Color24= 150 150 150
+[MaterialEnd]
+

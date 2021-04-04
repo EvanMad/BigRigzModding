@@ -1,0 +1,1097 @@
+[MaterialBegin]
+Name= bush2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= Bush2.bmp
+AlphaMask= Bush2_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= 35gyh
+Flags= texture_gouraud_
+Opacity= 255
+Texture= Bush_arid .bmp
+AlphaMask= Bush_arid _o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= bush1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= Bush2.bmp
+AlphaMask= Bush2_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= kaktus
+Flags= texture_gouraud_
+Opacity= 255
+Texture= kaktus.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= 21_-_Default
+Flags= solid_gouraud_alphaop_
+Opacity= 57
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= cement1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= cement2.bmp
+Color24= 92 92 92
+[MaterialEnd]
+
+[MaterialBegin]
+Name= gates
+Flags= texture_gouraud_
+Opacity= 255
+Texture= gates.bmp
+Color24= 114 49 72
+[MaterialEnd]
+
+[MaterialBegin]
+Name= cement2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= cement1.bmp
+Color24= 92 92 92
+[MaterialEnd]
+
+[MaterialBegin]
+Name= lattice
+Flags= texture_gouraud_
+Opacity= 255
+Texture= lattice.bmp
+Color24= 92 92 92
+[MaterialEnd]
+
+[MaterialBegin]
+Name= cement3
+Flags= texture_gouraud_
+Opacity= 255
+Texture= cement3.bmp
+Color24= 92 92 92
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_03
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_03.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_12
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_12.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_10
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_10.bmp
+Color24= 92 92 92
+[MaterialEnd]
+
+[MaterialBegin]
+Name= fortress_road
+Flags= texture_gouraud_
+Opacity= 255
+Texture= fortress_road.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_06
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_06.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= wall_1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= wall_1.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= wall_2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= wall_2.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= wall_3
+Flags= texture_gouraud_
+Opacity= 255
+Texture= wall_3.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= STONE
+Flags= texture_gouraud_
+Opacity= 255
+Texture= STONE.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= wall_back
+Flags= texture_gouraud_
+Opacity= 255
+Texture= wall_2.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= STONE1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= STONE1.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_door
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_door1.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#10
+Flags= texture_gouraud_
+Opacity= 255
+Texture= opora.BMP
+Color24= 99 135 49
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= cesterna.BMP
+Color24= 137 50 50
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= cest_bok.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#9
+Flags= texture_gouraud_
+Opacity= 255
+Texture= Metalnsd.bmp
+Color24= 163 140 49
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#3
+Flags= texture_gouraud_
+Opacity= 255
+Texture= bitum.BMP
+Color24= 68 49 139
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#5
+Flags= texture_gouraud_
+Opacity= 255
+Texture= stn_gn.BMP
+Color24= 49 79 139
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#4
+Flags= texture_gouraud_
+Opacity= 255
+Texture= stn_gn2.BMP
+Color24= 27 171 166
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#6
+Flags= texture_gouraud_
+Opacity= 255
+Texture= stn_gn3.BMP
+Color24= 157 109 194
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#8
+Flags= texture_gouraud_
+Opacity= 255
+Texture= stn_gn4.BMP
+Color24= 139 49 132
+[MaterialEnd]
+
+[MaterialBegin]
+Name= fence
+Flags= texture_gouraud_
+Opacity= 255
+Texture= fence.bmp
+AlphaMask= fence.bmp
+Color24= 92 92 92
+[MaterialEnd]
+
+[MaterialBegin]
+Name= OLDWOOD_2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= OLDWOOD_2.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_04
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_04.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_05
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_05.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_win
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_win.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_08
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_08.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_09
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_09.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= text_11
+Flags= texture_gouraud_
+Opacity= 255
+Texture= text_11.bmp
+Color24= 51 141 45
+[MaterialEnd]
+
+[MaterialBegin]
+Name= dirt1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= dirt_wall.bmp
+AlphaMask= dirt_wall_a.bmp
+Color24= 149 149 149
+[MaterialEnd]
+
+[MaterialBegin]
+Name= road_01
+Flags= texture_gouraud_
+Opacity= 255
+Texture= road_01.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= road_01_1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= road_01_1.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= beton_stolbik
+Flags= texture_gouraud_
+Opacity= 255
+Texture= beton stolbik.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= razdelitel
+Flags= texture_gouraud_
+Opacity= 255
+Texture= razdelitel.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= 15_-_Default
+Flags= texture_gouraud_
+Opacity= 255
+Texture= kamni.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Lamp01_-_bottom
+Flags= texture_constant_0.500000
+Opacity= 255
+Texture= FONAR01.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Lamp01_-_wood
+Flags= texture_constant_0.500000
+Opacity= 255
+Texture= FONAR03.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Lamp01_-_bot01
+Flags= texture_constant_0.500000
+Opacity= 255
+Texture= FONAR02.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Lamp01_-_plafon_top
+Flags= texture_constant_0.500000
+Opacity= 255
+Texture= FONAR05.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Lamp01_-_plafon_innr
+Flags= texture_constant_0.500000
+Opacity= 255
+Texture= FONAR06.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Lamp01_-_light
+Flags= solid_constant_1.000000
+Opacity= 255
+Color24= 255 255 255
+[MaterialEnd]
+
+[MaterialBegin]
+Name= cafe_fasad
+Flags= texture_gouraud_
+Opacity= 255
+Texture= kafe fasad.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= kafe_bok
+Flags= texture_gouraud_
+Opacity= 255
+Texture= kafe bok.bmp
+Color24= 149 149 149
+[MaterialEnd]
+
+[MaterialBegin]
+Name= markiza
+Flags= texture_gouraud_
+Opacity= 255
+Texture= markiza red d.bmp
+AlphaMask= markiza red o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= balkon_derevo
+Flags= texture_gouraud_
+Opacity= 255
+Texture= balkon derevo d 1.bmp
+AlphaMask= balkon derevo o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= krisha_cafe_red
+Flags= texture_gouraud_
+Opacity= 255
+Texture= krisha cafe red.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= cafe_viveska
+Flags= texture_gouraud_
+Opacity= 255
+Texture= kafe viveska.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= bordur01
+Flags= texture_gouraud_
+Opacity= 255
+Texture= bordur01.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= krisha_zapravki
+Flags= texture_gouraud_
+Opacity= 255
+Texture= krisha zapravki.bmp
+Color24= 149 149 149
+[MaterialEnd]
+
+[MaterialBegin]
+Name= bok_zapravki
+Flags= texture_gouraud_
+Opacity= 255
+Texture= stolbiki zapravki.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= stojanka_fasad
+Flags= texture_gouraud_
+Opacity= 255
+Texture= STOJANKA FASAD.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= zapravka1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= zapravka.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= shlang
+Flags= texture_gouraud_
+Opacity= 255
+Texture= 
+Color24= 14 117 116
+[MaterialEnd]
+
+[MaterialBegin]
+Name= derevo_z
+Flags= texture_gouraud_
+Opacity= 255
+Texture= derevo most pokritie.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= road_02
+Flags= texture_gouraud_
+Opacity= 255
+Texture= road_02.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= jelezn_balki
+Flags= texture_gouraud_
+Opacity= 255
+Texture= jelezn_balki.bmp
+AlphaMask= jelezn_balki_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= truba
+Flags= texture_gouraud_
+Opacity= 255
+Texture= truba.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= 12_beton2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= 12_beton2.bmp
+Color24= 149 149 149
+[MaterialEnd]
+
+[MaterialBegin]
+Name= cement5_1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= cement5.bmp
+Color24= 92 92 92
+[MaterialEnd]
+
+[MaterialBegin]
+Name= ventilation_2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= ventilation_2.bmp
+Color24= 114 49 72
+[MaterialEnd]
+
+[MaterialBegin]
+Name= ventilation_1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= ventilation_1.bmp
+Color24= 114 49 72
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#25
+Flags= texture_gouraud_
+Opacity= 255
+Texture= krieshk1.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#26
+Flags= texture_gouraud_
+Opacity= 255
+Texture= bochka01.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= Material_#27
+Flags= texture_gouraud_
+Opacity= 255
+Texture= dno01.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= brick_1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= brick_1.bmp
+Color24= 114 49 72
+[MaterialEnd]
+
+[MaterialBegin]
+Name= h3_wall2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= h3_wall2.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= h3_roof1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= h2_roof1.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= tresh
+Flags= texture_gouraud_
+Opacity= 255
+Texture= tresh.bmp
+AlphaMask= tresh_o.bmp
+Color24= 149 149 149
+[MaterialEnd]
+
+[MaterialBegin]
+Name= dirt2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= dirt_vodo_truba.bmp
+AlphaMask= dirt_vodo_truba_a.bmp
+Color24= 149 149 149
+[MaterialEnd]
+
+[MaterialBegin]
+Name= door
+Flags= texture_gouraud_
+Opacity= 255
+Texture= door.bmp
+Color24= 149 149 149
+[MaterialEnd]
+
+[MaterialBegin]
+Name= window
+Flags= texture_gouraud_
+Opacity= 255
+Texture= window.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= UH-1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= NEW_TEXT.BMP
+Color24= 127 127 127
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h4_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h4_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h4_stairway
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h4_stairway.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h4_windows
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h4_windows.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h4_lattice2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h4_lattice2.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h4_doors
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h4_doors.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h6_lattice
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h6_lattice.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h9_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h9_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h9__fence
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h9_ fence.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h9_mozaik
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h9_mozaik.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h9_windows
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h9_windows.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h9_fronton
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h9_fronton.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h9_windows1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h9_windows1.bmp
+AlphaMask= a_h9_windows1_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h9_roof
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h9_roof.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h9_doors
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h9_doors.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h8_boards
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h8_boards.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h7_table
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h7_table.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h8_lattice
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h8_lattice.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h7_rubbish
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h7_rubbish.bmp
+AlphaMask= a_h7_rubbish_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h8_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h8_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h8_wall_windows
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h8_wall_windows.bmp
+AlphaMask= a_h8_wall_windows_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h8_rubbish1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h8_rubbish1.bmp
+AlphaMask= a_h8_rubbish1_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h8_doors
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h8_doors.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h8_doors1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h8_doors1.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h5_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h5_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h5_metal
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h5_metal.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h5_windows
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h5_windows.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h5_doors
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h5_doors.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h6_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h6_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h6_wall_windows
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h6_wall_windows.bmp
+AlphaMask= a_h6_wall_windows_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h6_doors
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h6_doors.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h6_windows
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h6_windows.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h1_boards1
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h1_boards1.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h6_roof
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h6_roof.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h3_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h3_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h3_roof
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h3_roof.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h1_lattice
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h1_lattice.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h1_windows
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h1_windows.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h7__floor
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h7_ floor.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h7_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h7_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h7_lattice
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h7_lattice.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h7_doors
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h7_doors.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h1_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h1_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h1_bracket
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h1_bracket.bmp
+AlphaMask= a_h1_bracket_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h1_roof
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h1_roof.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h1_doors
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h1_doors.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h1_boards2
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h1_boards2.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h2_wall
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h2_wall.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h3_doors
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h3_doors.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h2_windows
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h2_windows.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= a_h2_roof
+Flags= texture_gouraud_
+Opacity= 255
+Texture= a_h2_roof.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= finish
+Flags= texture_gouraud_
+Opacity= 255
+Texture= finish.bmp
+AlphaMask= banner_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= checkp
+Flags= texture_gouraud_
+Opacity= 255
+Texture= checkp.bmp
+AlphaMask= banner_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
+[MaterialBegin]
+Name= palm_far
+Flags= texture_gouraud_
+Opacity= 255
+Texture= palm_far.bmp
+AlphaMask= palm_far_o.bmp
+Color24= 150 150 150
+[MaterialEnd]
+
