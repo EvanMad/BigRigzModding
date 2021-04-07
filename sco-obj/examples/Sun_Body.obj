@@ -1,5 +1,6 @@
 #examples/Sun_Body.obj 
 #CentrePoint: ('63.9178', '30.1383', '12.1647') 
+mtllib ZZ.mtl
 v 17.165300000000002 -24.932100000000002 -9.7147
 v 17.165300000000002 -25.6877 41.499700000000004
 v 17.072699999999998 -15.8886 41.686800000000005
@@ -1718,425 +1719,847 @@ vt 0.114512495697 0.414372086525
 vt 0.114512495697 0.414372086525
 vt 0.114512495697 0.422263085842
 vt 0.108313582838 0.420598804951
+usemtl truck2_sunrise
 f 194/1 188/2 193/3
+usemtl truck2_sunrise
 f 188/4 183/5 193/6
+usemtl truck2_sunrise
 f 193/7 183/8 205/9
+usemtl truck2_sunrise
 f 183/10 195/11 205/12
+usemtl truck2_sunrise
 f 193/13 205/14 194/15
+usemtl truck2_sunrise
 f 205/16 210/17 194/18
+usemtl truck2_sunrise
 f 195/19 183/20 198/21
+usemtl truck2_sunrise
 f 183/22 188/23 198/24
+usemtl truck2_sunrise
 f 205/25 195/26 198/27
+usemtl truck2_sunrise
 f 198/28 210/29 205/30
+usemtl truck2_sunrise
 f 210/31 198/32 194/33
+usemtl truck2_sunrise
 f 198/34 188/35 194/36
+usemtl truck2_sunrise
 f 3/37 2/38 1/39
+usemtl truck2_sunrise
 f 4/40 3/41 1/42
+usemtl truck2_sunrise
 f 5/43 3/44 4/45
+usemtl truck2_sunrise
 f 8/46 7/47 6/48
+usemtl truck2_sunrise
 f 8/49 6/50 9/51
+usemtl truck2_sunrise
 f 9/52 6/53 10/54
+usemtl truck2_sunrise
 f 2/55 446/56 445/57
+usemtl truck2_sunrise
 f 6/58 2/59 3/60
+usemtl truck2_sunrise
 f 9/61 10/62 5/63
+usemtl truck2_sunrise
 f 5/64 4/65 9/66
+usemtl truck2_sunrise
 f 2/67 448/68 447/69
+usemtl truck2_sunrise
 f 6/70 7/71 2/72
+usemtl truck2_sunrise
 f 1/73 8/74 9/75
+usemtl truck2_sunrise
 f 9/76 4/77 1/78
+usemtl truck2_sunrise
 f 6/79 3/80 5/81
+usemtl truck2_sunrise
 f 5/82 10/83 6/84
+usemtl truck2_sunrise
 f 7/85 8/86 1/87
+usemtl truck2_sunrise
 f 1/88 2/89 7/90
+usemtl truck2_sunrise
 f 13/91 12/92 11/93
+usemtl truck2_sunrise
 f 13/94 11/95 14/96
+usemtl truck2_sunrise
 f 14/97 11/98 15/99
+usemtl truck2_sunrise
 f 18/100 17/101 16/102
+usemtl truck2_sunrise
 f 19/103 18/104 16/105
+usemtl truck2_sunrise
 f 20/106 18/107 19/108
+usemtl truck2_sunrise
 f 450/109 449/110 12/111
+usemtl truck2_sunrise
 f 11/112 12/113 18/114
+usemtl truck2_sunrise
 f 15/115 20/116 19/117
+usemtl truck2_sunrise
 f 19/118 14/119 15/120
+usemtl truck2_sunrise
 f 18/121 452/122 451/123
+usemtl truck2_sunrise
 f 12/124 17/125 18/126
+usemtl truck2_sunrise
 f 19/127 16/128 13/129
+usemtl truck2_sunrise
 f 13/130 14/131 19/132
+usemtl truck2_sunrise
 f 15/133 11/134 18/135
+usemtl truck2_sunrise
 f 18/136 20/137 15/138
+usemtl truck2_sunrise
 f 13/139 16/140 17/141
+usemtl truck2_sunrise
 f 17/142 12/143 13/144
+usemtl truck2_sunrise
 f 196/145 201/146 21/147
+usemtl truck2_sunrise
 f 202/148 21/149 201/150
+usemtl truck2_sunrise
 f 202/151 251/152 21/153
+usemtl truck2_sunrise
 f 252/154 251/155 202/156
+usemtl truck2_sunrise
 f 202/157 253/158 252/159
+usemtl truck2_sunrise
 f 204/160 253/161 202/162
+usemtl truck2_sunrise
 f 204/163 254/164 253/165
+usemtl truck2_sunrise
 f 204/166 255/167 254/168
+usemtl truck2_sunrise
 f 22/169 255/170 204/171
+usemtl truck2_sunrise
 f 256/172 255/173 22/174
+usemtl truck2_sunrise
 f 269/175 257/176 256/177
+usemtl truck2_sunrise
 f 22/178 270/179 271/180
+usemtl truck2_sunrise
 f 272/181 256/182 22/183
+usemtl truck2_sunrise
 f 22/184 211/185 273/186
+usemtl truck2_sunrise
 f 212/187 211/188 22/189
+usemtl truck2_sunrise
 f 22/190 213/191 212/192
+usemtl truck2_sunrise
 f 214/193 213/194 22/195
+usemtl truck2_sunrise
 f 22/196 204/197 214/198
+usemtl truck2_sunrise
 f 274/199 258/200 257/201
+usemtl truck2_sunrise
 f 275/202 259/203 258/204
+usemtl truck2_sunrise
 f 276/205 259/206 277/207
+usemtl truck2_sunrise
 f 260/208 259/209 278/210
+usemtl truck2_sunrise
 f 261/211 259/212 260/213
+usemtl truck2_sunrise
 f 262/214 229/215 259/216
+usemtl truck2_sunrise
 f 259/217 261/218 262/219
+usemtl truck2_sunrise
 f 264/220 230/221 229/222
+usemtl truck2_sunrise
 f 229/223 262/224 264/225
+usemtl truck2_sunrise
 f 220/226 265/227 229/228
+usemtl truck2_sunrise
 f 229/229 230/230 220/231
+usemtl truck2_sunrise
 f 221/232 220/233 230/234
+usemtl truck2_sunrise
 f 230/235 231/236 221/237
+usemtl truck2_sunrise
 f 232/238 231/239 230/240
+usemtl truck2_sunrise
 f 23/241 251/242 265/243
+usemtl truck2_sunrise
 f 265/244 220/245 23/246
+usemtl truck2_sunrise
 f 23/247 21/248 251/249
+usemtl truck2_sunrise
 f 220/250 221/251 24/252
+usemtl truck2_sunrise
 f 222/253 23/254 220/255
+usemtl truck2_sunrise
 f 24/256 223/257 222/258
+usemtl truck2_sunrise
 f 223/259 25/260 222/261
+usemtl truck2_sunrise
 f 26/262 25/263 223/264
+usemtl truck2_sunrise
 f 27/265 25/266 26/267
+usemtl truck2_sunrise
 f 23/268 222/269 25/270
+usemtl truck2_sunrise
 f 25/271 28/272 23/273
+usemtl truck2_sunrise
 f 29/274 23/275 28/276
+usemtl truck2_sunrise
 f 21/277 23/278 29/279
+usemtl truck2_sunrise
 f 29/280 30/281 21/282
+usemtl truck2_sunrise
 f 21/283 30/284 31/285
+usemtl truck2_sunrise
 f 263/286 266/287 261/288
+usemtl truck2_sunrise
 f 261/289 260/290 263/291
+usemtl truck2_sunrise
 f 24/292 222/293 220/294
+usemtl truck2_sunrise
 f 224/295 221/296 231/297
+usemtl truck2_sunrise
 f 231/298 233/299 224/300
+usemtl truck2_sunrise
 f 234/301 233/302 231/303
+usemtl truck2_sunrise
 f 231/304 232/305 234/306
+usemtl truck2_sunrise
 f 263/307 268/308 267/309
+usemtl truck2_sunrise
 f 267/310 266/311 263/312
+usemtl truck2_sunrise
 f 263/313 32/314 268/315
+usemtl truck2_sunrise
 f 260/316 32/317 263/318
+usemtl truck2_sunrise
 f 279/319 32/320 260/321
+usemtl truck2_sunrise
 f 280/322 281/323 282/324
+usemtl truck2_sunrise
 f 283/325 284/326 285/327
+usemtl truck2_sunrise
 f 32/328 286/329 287/330
+usemtl truck2_sunrise
 f 288/331 289/332 290/333
+usemtl truck2_sunrise
 f 291/334 292/335 293/336
+usemtl truck2_sunrise
 f 294/337 211/338 33/339
+usemtl truck2_sunrise
 f 295/340 296/341 33/342
+usemtl truck2_sunrise
 f 211/343 212/344 34/345
+usemtl truck2_sunrise
 f 34/346 33/347 211/348
+usemtl truck2_sunrise
 f 213/349 215/350 34/351
+usemtl truck2_sunrise
 f 213/352 34/353 212/354
+usemtl truck2_sunrise
 f 214/355 36/356 35/357
+usemtl truck2_sunrise
 f 204/358 36/359 214/360
+usemtl truck2_sunrise
 f 213/361 35/362 215/363
+usemtl truck2_sunrise
 f 214/364 35/365 213/366
+usemtl truck2_sunrise
 f 204/367 37/368 36/369
+usemtl truck2_sunrise
 f 202/370 37/371 204/372
+usemtl truck2_sunrise
 f 37/373 202/374 38/375
+usemtl truck2_sunrise
 f 202/376 201/377 38/378
+usemtl truck2_sunrise
 f 196/379 39/380 38/381
+usemtl truck2_sunrise
 f 38/382 201/383 196/384
+usemtl truck2_sunrise
 f 24/385 221/386 224/387
+usemtl truck2_sunrise
 f 224/388 40/389 24/390
+usemtl truck2_sunrise
 f 223/391 24/392 40/393
+usemtl truck2_sunrise
 f 223/394 40/395 41/396
+usemtl truck2_sunrise
 f 197/397 43/398 42/399
+usemtl truck2_sunrise
 f 42/400 199/401 197/402
+usemtl truck2_sunrise
 f 199/403 42/404 200/405
+usemtl truck2_sunrise
 f 42/406 235/407 200/408
+usemtl truck2_sunrise
 f 200/409 235/410 236/411
+usemtl truck2_sunrise
 f 236/412 237/413 200/414
+usemtl truck2_sunrise
 f 200/415 237/416 203/417
+usemtl truck2_sunrise
 f 237/418 238/419 203/420
+usemtl truck2_sunrise
 f 238/421 239/422 203/423
+usemtl truck2_sunrise
 f 203/424 239/425 44/426
+usemtl truck2_sunrise
 f 44/427 239/428 240/429
+usemtl truck2_sunrise
 f 240/430 241/431 297/432
+usemtl truck2_sunrise
 f 298/433 299/434 44/435
+usemtl truck2_sunrise
 f 44/436 240/437 300/438
+usemtl truck2_sunrise
 f 301/439 206/440 44/441
+usemtl truck2_sunrise
 f 44/442 206/443 207/444
+usemtl truck2_sunrise
 f 207/445 208/446 44/447
+usemtl truck2_sunrise
 f 44/448 208/449 209/450
+usemtl truck2_sunrise
 f 209/451 203/452 44/453
+usemtl truck2_sunrise
 f 241/454 242/455 302/456
+usemtl truck2_sunrise
 f 242/457 243/458 303/459
+usemtl truck2_sunrise
 f 304/460 243/461 305/462
+usemtl truck2_sunrise
 f 306/463 243/464 244/465
+usemtl truck2_sunrise
 f 244/466 243/467 245/468
+usemtl truck2_sunrise
 f 243/469 225/470 246/471
+usemtl truck2_sunrise
 f 246/472 245/473 243/474
+usemtl truck2_sunrise
 f 225/475 226/476 248/477
+usemtl truck2_sunrise
 f 248/478 246/479 225/480
+usemtl truck2_sunrise
 f 225/481 249/482 216/483
+usemtl truck2_sunrise
 f 216/484 226/485 225/486
+usemtl truck2_sunrise
 f 226/487 216/488 217/489
+usemtl truck2_sunrise
 f 217/490 227/491 226/492
+usemtl truck2_sunrise
 f 226/493 227/494 228/495
+usemtl truck2_sunrise
 f 249/496 235/497 45/498
+usemtl truck2_sunrise
 f 45/499 216/500 249/501
+usemtl truck2_sunrise
 f 235/502 42/503 45/504
+usemtl truck2_sunrise
 f 46/505 217/506 216/507
+usemtl truck2_sunrise
 f 216/508 45/509 218/510
+usemtl truck2_sunrise
 f 218/511 219/512 46/513
+usemtl truck2_sunrise
 f 218/514 47/515 219/516
+usemtl truck2_sunrise
 f 219/517 47/518 48/519
+usemtl truck2_sunrise
 f 48/520 47/521 49/522
+usemtl truck2_sunrise
 f 47/523 218/524 45/525
+usemtl truck2_sunrise
 f 45/526 50/527 47/528
+usemtl truck2_sunrise
 f 50/529 45/530 51/531
+usemtl truck2_sunrise
 f 51/532 45/533 42/534
+usemtl truck2_sunrise
 f 42/535 52/536 51/537
+usemtl truck2_sunrise
 f 43/538 52/539 42/540
+usemtl truck2_sunrise
 f 245/541 250/542 247/543
+usemtl truck2_sunrise
 f 247/544 244/545 245/546
+usemtl truck2_sunrise
 f 216/547 218/548 46/549
+usemtl truck2_sunrise
 f 227/550 217/551 224/552
+usemtl truck2_sunrise
 f 224/553 233/554 227/555
+usemtl truck2_sunrise
 f 227/556 233/557 234/558
+usemtl truck2_sunrise
 f 234/559 228/560 227/561
+usemtl truck2_sunrise
 f 267/562 268/563 247/564
+usemtl truck2_sunrise
 f 247/565 250/566 267/567
+usemtl truck2_sunrise
 f 268/568 32/569 247/570
+usemtl truck2_sunrise
 f 247/571 32/572 244/573
+usemtl truck2_sunrise
 f 244/574 32/575 307/576
+usemtl truck2_sunrise
 f 308/577 309/578 310/579
+usemtl truck2_sunrise
 f 311/580 312/581 313/582
+usemtl truck2_sunrise
 f 314/583 315/584 32/585
+usemtl truck2_sunrise
 f 316/586 317/587 318/588
+usemtl truck2_sunrise
 f 319/589 320/590 321/591
+usemtl truck2_sunrise
 f 33/592 206/593 322/594
+usemtl truck2_sunrise
 f 33/595 323/596 324/597
+usemtl truck2_sunrise
 f 34/598 207/599 206/600
+usemtl truck2_sunrise
 f 206/601 33/602 34/603
+usemtl truck2_sunrise
 f 34/604 215/605 208/606
+usemtl truck2_sunrise
 f 207/607 34/608 208/609
+usemtl truck2_sunrise
 f 35/610 36/611 209/612
+usemtl truck2_sunrise
 f 209/613 36/614 203/615
+usemtl truck2_sunrise
 f 215/616 35/617 208/618
+usemtl truck2_sunrise
 f 208/619 35/620 209/621
+usemtl truck2_sunrise
 f 36/622 37/623 203/624
+usemtl truck2_sunrise
 f 203/625 37/626 200/627
+usemtl truck2_sunrise
 f 38/628 200/629 37/630
+usemtl truck2_sunrise
 f 38/631 199/632 200/633
+usemtl truck2_sunrise
 f 38/634 39/635 197/636
+usemtl truck2_sunrise
 f 197/637 199/638 38/639
+usemtl truck2_sunrise
 f 224/640 217/641 46/642
+usemtl truck2_sunrise
 f 46/643 40/644 224/645
+usemtl truck2_sunrise
 f 40/646 46/647 219/648
+usemtl truck2_sunrise
 f 41/649 40/650 219/651
+usemtl truck2_sunrise
 f 21/652 31/653 196/654
+usemtl truck2_sunrise
 f 55/655 54/656 53/657
+usemtl truck2_sunrise
 f 53/658 54/659 56/660
+usemtl truck2_sunrise
 f 54/661 57/662 56/663
+usemtl truck2_sunrise
 f 56/664 57/665 58/666
+usemtl truck2_sunrise
 f 58/667 57/668 59/669
+usemtl truck2_sunrise
 f 59/670 60/671 58/672
+usemtl truck2_sunrise
 f 59/673 61/674 60/675
+usemtl truck2_sunrise
 f 61/676 62/677 60/678
+usemtl truck2_sunrise
 f 61/679 63/680 62/681
+usemtl truck2_sunrise
 f 63/682 64/683 62/684
+usemtl truck2_sunrise
 f 63/685 65/686 64/687
+usemtl truck2_sunrise
 f 65/688 66/689 64/690
+usemtl truck2_sunrise
 f 65/691 67/692 66/693
+usemtl truck2_sunrise
 f 66/694 67/695 68/696
+usemtl truck2_sunrise
 f 68/697 67/698 69/699
+usemtl truck2_sunrise
 f 72/700 71/701 70/702
+usemtl truck2_sunrise
 f 73/703 71/704 72/705
+usemtl truck2_sunrise
 f 73/706 74/707 71/708
+usemtl truck2_sunrise
 f 75/709 74/710 73/711
+usemtl truck2_sunrise
 f 76/712 74/713 75/714
+usemtl truck2_sunrise
 f 75/715 77/716 76/717
+usemtl truck2_sunrise
 f 77/718 78/719 76/720
+usemtl truck2_sunrise
 f 77/721 79/722 78/723
+usemtl truck2_sunrise
 f 79/724 80/725 78/726
+usemtl truck2_sunrise
 f 79/727 81/728 80/729
+usemtl truck2_sunrise
 f 81/730 82/731 80/732
+usemtl truck2_sunrise
 f 81/733 83/734 82/735
+usemtl truck2_sunrise
 f 83/736 84/737 82/738
+usemtl truck2_sunrise
 f 85/739 84/740 83/741
+usemtl truck2_sunrise
 f 86/742 84/743 85/744
+usemtl truck2_sunrise
 f 261/745 267/746 245/747
+usemtl truck2_sunrise
 f 245/748 267/749 250/750
+usemtl truck2_sunrise
 f 261/751 266/752 267/753
+usemtl truck2_sunrise
 f 89/754 88/755 87/756
+usemtl truck2_sunrise
 f 89/757 90/758 88/759
+usemtl truck2_sunrise
 f 91/760 90/761 89/762
+usemtl truck2_sunrise
 f 91/763 92/764 90/765
+usemtl truck2_sunrise
 f 93/766 92/767 91/768
+usemtl truck2_sunrise
 f 93/769 94/770 92/771
+usemtl truck2_sunrise
 f 87/772 94/773 93/774
+usemtl truck2_sunrise
 f 87/775 88/776 94/777
+usemtl truck2_sunrise
 f 91/778 87/779 93/780
+usemtl truck2_sunrise
 f 91/781 89/782 87/783
+usemtl truck2_sunrise
 f 90/784 94/785 88/786
+usemtl truck2_sunrise
 f 90/787 92/788 94/789
+usemtl truck2_sunrise
 f 97/790 96/791 95/792
+usemtl truck2_sunrise
 f 96/793 98/794 95/795
+usemtl truck2_sunrise
 f 95/796 98/797 99/798
+usemtl truck2_sunrise
 f 98/799 100/800 99/801
+usemtl truck2_sunrise
 f 99/802 100/803 101/804
+usemtl truck2_sunrise
 f 100/805 102/806 101/807
+usemtl truck2_sunrise
 f 101/808 102/809 97/810
+usemtl truck2_sunrise
 f 102/811 96/812 97/813
+usemtl truck2_sunrise
 f 101/814 97/815 99/816
+usemtl truck2_sunrise
 f 97/817 95/818 99/819
+usemtl truck2_sunrise
 f 96/820 102/821 98/822
+usemtl truck2_sunrise
 f 102/823 100/824 98/825
+usemtl truck2_sunrise
 f 105/826 104/827 103/828
+usemtl truck2_sunrise
 f 105/829 106/830 104/831
+usemtl truck2_sunrise
 f 109/832 108/833 107/834
+usemtl truck2_sunrise
 f 109/835 110/836 108/837
+usemtl truck2_sunrise
 f 113/838 112/839 111/840
+usemtl truck2_sunrise
 f 113/841 114/842 112/843
+usemtl truck2_sunrise
 f 117/844 116/845 115/846
+usemtl truck2_sunrise
 f 117/847 118/848 116/849
+usemtl truck2_sunrise
 f 121/850 120/851 119/852
+usemtl truck2_sunrise
 f 121/853 122/854 120/855
+usemtl truck2_sunrise
 f 125/856 124/857 123/858
+usemtl truck2_sunrise
 f 125/859 126/860 124/861
+usemtl truck2_sunrise
 f 129/862 128/863 127/864
+usemtl truck2_sunrise
 f 129/865 130/866 128/867
+usemtl truck2_sunrise
 f 133/868 132/869 131/870
+usemtl truck2_sunrise
 f 133/871 134/872 132/873
+usemtl truck2_sunrise
 f 137/874 136/875 135/876
+usemtl truck2_sunrise
 f 137/877 138/878 136/879
+usemtl truck2_sunrise
 f 141/880 140/881 139/882
+usemtl truck2_sunrise
 f 141/883 142/884 140/885
+usemtl truck2_sunrise
 f 145/886 144/887 143/888
+usemtl truck2_sunrise
 f 145/889 146/890 144/891
+usemtl truck2_sunrise
 f 149/892 148/893 147/894
+usemtl truck2_sunrise
 f 149/895 150/896 148/897
+usemtl truck2_sunrise
 f 153/898 152/899 151/900
+usemtl truck2_sunrise
 f 153/901 154/902 152/903
+usemtl truck2_sunrise
 f 157/904 156/905 155/906
+usemtl truck2_sunrise
 f 157/907 158/908 156/909
+usemtl truck2_sunrise
 f 161/910 160/911 159/912
+usemtl truck2_sunrise
 f 161/913 162/914 160/915
+usemtl truck2_sunrise
 f 165/916 164/917 163/918
+usemtl truck2_sunrise
 f 165/919 166/920 164/921
+usemtl truck2_sunrise
 f 169/922 168/923 167/924
+usemtl truck2_sunrise
 f 169/925 170/926 168/927
+usemtl truck2_sunrise
 f 173/928 172/929 171/930
+usemtl truck2_sunrise
 f 172/931 174/932 171/933
+usemtl truck2_sunrise
 f 177/934 176/935 175/936
+usemtl truck2_sunrise
 f 177/937 178/938 176/939
+usemtl truck2_sunrise
 f 184/940 178/941 177/942
+usemtl truck2_sunrise
 f 184/943 185/944 178/945
+usemtl truck2_sunrise
 f 186/946 185/947 184/948
+usemtl truck2_sunrise
 f 186/949 187/950 185/951
+usemtl truck2_sunrise
 f 175/952 187/953 186/954
+usemtl truck2_sunrise
 f 175/955 176/956 187/957
+usemtl truck2_sunrise
 f 184/958 175/959 186/960
+usemtl truck2_sunrise
 f 184/961 177/962 175/963
+usemtl truck2_sunrise
 f 178/964 187/965 176/966
+usemtl truck2_sunrise
 f 178/967 185/968 187/969
+usemtl truck2_sunrise
 f 181/970 180/971 179/972
+usemtl truck2_sunrise
 f 180/973 182/974 179/975
+usemtl truck2_sunrise
 f 179/976 182/977 189/978
+usemtl truck2_sunrise
 f 182/979 190/980 189/981
+usemtl truck2_sunrise
 f 189/982 190/983 191/984
+usemtl truck2_sunrise
 f 190/985 192/986 191/987
+usemtl truck2_sunrise
 f 191/988 192/989 181/990
+usemtl truck2_sunrise
 f 192/991 180/992 181/993
+usemtl truck2_sunrise
 f 191/994 181/995 189/996
+usemtl truck2_sunrise
 f 181/997 179/998 189/999
+usemtl truck2_sunrise
 f 180/1000 192/1001 182/1002
+usemtl truck2_sunrise
 f 192/1003 190/1004 182/1005
+usemtl truck2_sunrise
 f 245/1006 228/1007 234/1008
+usemtl truck2_sunrise
 f 232/1009 261/1010 234/1011
+usemtl truck2_sunrise
 f 261/1012 245/1013 234/1014
+usemtl truck2_sunrise
 f 264/1015 261/1016 232/1017
+usemtl truck2_sunrise
 f 230/1018 264/1019 232/1020
+usemtl truck2_sunrise
 f 262/1021 261/1022 264/1023
+usemtl truck2_sunrise
 f 229/1024 258/1025 259/1026
+usemtl truck2_sunrise
 f 265/1027 258/1028 229/1029
+usemtl truck2_sunrise
 f 251/1030 258/1031 265/1032
+usemtl truck2_sunrise
 f 257/1033 258/1034 251/1035
+usemtl truck2_sunrise
 f 251/1036 256/1037 257/1038
+usemtl truck2_sunrise
 f 255/1039 256/1040 251/1041
+usemtl truck2_sunrise
 f 251/1042 254/1043 255/1044
+usemtl truck2_sunrise
 f 253/1045 254/1046 251/1047
+usemtl truck2_sunrise
 f 251/1048 252/1049 253/1050
+usemtl truck2_sunrise
 f 243/1051 242/1052 225/1053
+usemtl truck2_sunrise
 f 225/1054 242/1055 249/1056
+usemtl truck2_sunrise
 f 249/1057 242/1058 235/1059
+usemtl truck2_sunrise
 f 235/1060 242/1061 241/1062
+usemtl truck2_sunrise
 f 241/1063 240/1064 235/1065
+usemtl truck2_sunrise
 f 235/1066 240/1067 239/1068
+usemtl truck2_sunrise
 f 238/1069 235/1070 239/1071
+usemtl truck2_sunrise
 f 237/1072 235/1073 238/1074
+usemtl truck2_sunrise
 f 236/1075 235/1076 237/1077
+usemtl truck2_sunrise
 f 248/1078 228/1079 245/1080
+usemtl truck2_sunrise
 f 245/1081 246/1082 248/1083
+usemtl truck2_sunrise
 f 248/1084 226/1085 228/1086
+usemtl truck2_sunrise
 f 326/1087 327/1088 328/1089
+usemtl truck2_sunrise
 f 328/1090 325/1091 326/1092
+usemtl truck2_sunrise
 f 330/1093 331/1094 332/1095
+usemtl truck2_sunrise
 f 332/1096 329/1097 330/1098
+usemtl truck2_sunrise
 f 334/1099 335/1100 336/1101
+usemtl truck2_sunrise
 f 336/1102 333/1103 334/1104
+usemtl truck2_sunrise
 f 338/1105 339/1106 340/1107
+usemtl truck2_sunrise
 f 340/1108 337/1109 338/1110
+usemtl truck2_sunrise
 f 342/1111 343/1112 344/1113
+usemtl truck2_sunrise
 f 344/1114 341/1115 342/1116
+usemtl truck2_sunrise
 f 346/1117 347/1118 348/1119
+usemtl truck2_sunrise
 f 348/1120 345/1121 346/1122
+usemtl truck2_sunrise
 f 350/1123 351/1124 352/1125
+usemtl truck2_sunrise
 f 352/1126 349/1127 350/1128
+usemtl truck2_sunrise
 f 354/1129 355/1130 356/1131
+usemtl truck2_sunrise
 f 356/1132 353/1133 354/1134
+usemtl truck2_sunrise
 f 358/1135 359/1136 360/1137
+usemtl truck2_sunrise
 f 360/1138 357/1139 358/1140
+usemtl truck2_sunrise
 f 362/1141 363/1142 364/1143
+usemtl truck2_sunrise
 f 364/1144 361/1145 362/1146
+usemtl truck2_sunrise
 f 366/1147 367/1148 368/1149
+usemtl truck2_sunrise
 f 368/1150 365/1151 366/1152
+usemtl truck2_sunrise
 f 370/1153 371/1154 372/1155
+usemtl truck2_sunrise
 f 372/1156 369/1157 370/1158
+usemtl truck2_sunrise
 f 374/1159 375/1160 376/1161
+usemtl truck2_sunrise
 f 376/1162 373/1163 374/1164
+usemtl truck2_sunrise
 f 378/1165 379/1166 380/1167
+usemtl truck2_sunrise
 f 380/1168 377/1169 378/1170
+usemtl truck2_sunrise
 f 382/1171 383/1172 384/1173
+usemtl truck2_sunrise
 f 384/1174 381/1175 382/1176
+usemtl truck2_sunrise
 f 386/1177 387/1178 388/1179
+usemtl truck2_sunrise
 f 388/1180 385/1181 386/1182
+usemtl truck2_sunrise
 f 390/1183 391/1184 392/1185
+usemtl truck2_sunrise
 f 392/1186 389/1187 390/1188
+usemtl truck2_sunrise
 f 394/1189 395/1190 396/1191
+usemtl truck2_sunrise
 f 396/1192 393/1193 394/1194
+usemtl truck2_sunrise
 f 398/1195 399/1196 400/1197
+usemtl truck2_sunrise
 f 400/1198 397/1199 398/1200
+usemtl truck2_sunrise
 f 402/1201 403/1202 404/1203
+usemtl truck2_sunrise
 f 404/1204 401/1205 402/1206
+usemtl truck2_sunrise
 f 406/1207 407/1208 408/1209
+usemtl truck2_sunrise
 f 408/1210 405/1211 406/1212
+usemtl truck2_sunrise
 f 410/1213 411/1214 412/1215
+usemtl truck2_sunrise
 f 412/1216 409/1217 410/1218
+usemtl truck2_sunrise
 f 422/1219 421/1220 413/1221
+usemtl truck2_sunrise
 f 413/1222 414/1223 422/1224
+usemtl truck2_sunrise
 f 424/1225 423/1226 416/1227
+usemtl truck2_sunrise
 f 416/1228 415/1229 424/1230
+usemtl truck2_sunrise
 f 426/1231 425/1232 418/1233
+usemtl truck2_sunrise
 f 418/1234 417/1235 426/1236
+usemtl truck2_sunrise
 f 428/1237 427/1238 419/1239
+usemtl truck2_sunrise
 f 419/1240 420/1241 428/1242
+usemtl truck2_sunrise
 f 429/1243 437/1244 438/1245
+usemtl truck2_sunrise
 f 438/1246 430/1247 429/1248
+usemtl truck2_sunrise
 f 432/1249 439/1250 440/1251
+usemtl truck2_sunrise
 f 440/1252 431/1253 432/1254
+usemtl truck2_sunrise
 f 434/1255 441/1256 442/1257
+usemtl truck2_sunrise
 f 442/1258 433/1259 434/1260
+usemtl truck2_sunrise
 f 435/1261 443/1262 444/1263
+usemtl truck2_sunrise
 f 444/1264 436/1265 435/1266

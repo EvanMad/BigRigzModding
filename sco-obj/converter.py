@@ -162,18 +162,21 @@ mat_name = ""
 #point to folder
 if len(sys.argv) > 1:
 	folderpath = (sys.argv[1])
-	for file in os.listdir(folderpath):
-		filepath = folderpath + "/" + file
-		if file.endswith(".mat"):
-			mat_reader(filepath)
-			mat_name = file[:-4]
-			print("\n")
-	for file in os.listdir(folderpath):
-		filepath = folderpath + "/" + file
-		if file.endswith(".sco"):
-			convert_sco_to_obj(filepath, True)
-			print("\n")
-			pass
+	if (os.path.isfile(folderpath)):
+		convert_sco_to_obj(folderpath, True)
+	else:
+		for file in os.listdir(folderpath):
+			filepath = folderpath + "/" + file
+			if file.endswith(".mat"):
+				mat_reader(filepath)
+				mat_name = file[:-4]
+				print("\n")
+		for file in os.listdir(folderpath):
+			filepath = folderpath + "/" + file
+			if file.endswith(".sco"):
+				convert_sco_to_obj(filepath, True)
+				print("\n")
+				pass
 
 ##Args for CLI
 #if len(sys.argv) > 1:
