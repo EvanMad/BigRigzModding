@@ -1,1 +1,1 @@
-sco-obj/examples/* linguist-vendored
+*.sco linguist-vendored=false
