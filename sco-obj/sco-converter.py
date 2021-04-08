@@ -10,10 +10,11 @@ mat_name = ""
 
 def convert_obj_to_sco(filepath):
 
-	template = """[ObjectBegin]
-Name= ZZ_Body
-CentralPoint= 0 0 0
-Verts= {}\n"""
+	template = ""
+	template += "[ObjectBegin]\n"
+	template += "Name= ZZ_Body\n"
+	template += "CentralPoint= 0 0 0\n"
+	template += "Verts= {}\n"
 
 	face_template = "3	 {}  {}  {}	Body                	{} {} {} {} {} {}\n"
 
@@ -22,7 +23,6 @@ Verts= {}\n"""
 	verts = []
 	texcoords = {}
 	faces = []
-	out = []
 	i = 0
 	for line in data:
 		line = line.rstrip()
@@ -33,14 +33,10 @@ Verts= {}\n"""
 			pass
 		if opcode == "v":
 			verts.append((line[1], line[2], line[3]))
-			#verts.append(line[2])
-			#verts.append(line[3])
 			pass
 		if opcode == "vt":
 			texcoords[i] = [line[1], line[2]]
 			i+=1
-			#texcoords.append(line[1])
-			#texcoords.append(line[2])
 			pass
 	print(len(texcoords))
 	print(len(verts))
@@ -53,7 +49,6 @@ Verts= {}\n"""
 		line = line.split(" ")
 		opcode = line[0]
 		if opcode == "f":
-
 			faceindex1 = line[1].split("/")
 			faceindex2 = line[2].split("/")
 			faceindex3 = line[3].split("/")
@@ -65,17 +60,18 @@ Verts= {}\n"""
 			texcoordindex1 = int(faceindex1[1])-1
 			texcoordindex2 = int(faceindex2[1])-1
 			texcoordindex3 = int(faceindex3[1])-1
+			#Y coords are flipped in game files
 			if hastexcoords:
 				texcoords[texcoordindex1][1] = float(texcoords[texcoordindex1][1])*-1
 				texcoords[texcoordindex2][1] = float(texcoords[texcoordindex2][1])*-1
 				texcoords[texcoordindex3][1] = float(texcoords[texcoordindex3][1])*-1
 			else:
+				#Attempt to get empty texcoords if the model doesn't have any, doesn't work i don't think.
 				texcoords[texcoordindex1] = [0,1]
 				texcoords[texcoordindex2] = [0,1]
 				texcoords[texcoordindex3] = [0,1]
 
 			newline = face_template
-			#print(facevertindex2)
 			newline = newline.format(
 				facevertindex1,
 				facevertindex2,
@@ -91,9 +87,6 @@ Verts= {}\n"""
 			pass
 
 	template = (template.format(len(verts)))
-	#out.append(template)
-	out.append(verts)
-	#out.append(faces)
 	with open("test.sco","w") as outfile:
 		outfile.write(template)
 		for vert in verts:
@@ -112,6 +105,7 @@ Verts= {}\n"""
 		pass
 
 def gen_mtl(mtlname, tex):
+	#Just a template material, until i learn what exaclty all these do, but it works so far.
 	output = ""
 	output += "\n"
 	output += "newmtl {}\n".format(mtlname)
